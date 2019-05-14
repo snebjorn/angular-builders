@@ -22,7 +22,7 @@
     "@angular/compiler": "^8.0.0-rc.1",
     "@angular/compiler-cli": "^8.0.0-rc.1",
     "@types/jest": "^24.0.0",
-    "@types/lodash": "^4.14.118",
+    "@types/lodash": "^4.14.127",
     "@types/node": "~11.13.7",
     "@types/webpack": "^4.4.26",
     "@types/webpack-dev-server": "^3.1.5",
