@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@angular-builders/jest@^8.0.0-RC.1":
-  version "8.0.0-RC.1"
-  resolved "https://registry.yarnpkg.com/@angular-builders/jest/-/jest-8.0.0-RC.1.tgz#2c3878cfdab6e8712c3dccd68d1410564a8601b7"
-  integrity sha512-bfhpktFPhOiABnkGqKqaR+tRaSudYoQU6sPxKFRtAD/bibqqy2QwdLjwaV/Aj0mXA+7zkP1kIfKVQdM/w2y1HA==
+"@angular-builders/jest@^8.0.2":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@angular-builders/jest/-/jest-8.0.2.tgz#2292447801de2832668853d11bbfaec0249d48d3"
+  integrity sha512-aV7e8TOpmnuwy5Dv2NL8FyJGfVaHKjzJdEDWmJagW7gj9eU6L7eyknvdpNxXsnA5wUlOnaE7mdFX/7jFgOPr6Q==
   dependencies:
     jest-preset-angular "^7.1.0"
     lodash "^4.17.10"
@@ -677,10 +677,15 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.6.tgz#37ec75690830acb0d74ce3c6c43caab787081e85"
   integrity sha512-Xoo/EBzEe8HxTSwaZNLZjaW6M6tA/+GmD3/DZ6uo8qSaolE/9Oarko0oV1fVfrLqOz0tx0nXJB4rdD5c+vixLw==
 
-"@types/node@^12.0.2", "@types/node@~12.0.3":
+"@types/node@^12.0.2":
   version "12.0.3"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.3.tgz#5d8d24e0033fc6393efadc85cb59c1f638095c9a"
   integrity sha512-zkOxCS/fA+3SsdA+9Yun0iANxzhQRiNwTvJSr6N95JhuJ/x27z9G2URx1Jpt3zYFfCGUXZGL5UDxt5eyLE7wgw==
+
+"@types/node@~12.0.8":
+  version "12.0.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.8.tgz#551466be11b2adc3f3d47156758f610bd9f6b1d8"
+  integrity sha512-b8bbUOTwzIY3V5vDTY1fIJ+ePKDUBqt2hC2woVGotdQQhG/2Sh62HOKHrT7ab+VerXAcPyAiTEipPu/FsreUtg==
 
 "@types/q@^0.0.32":
   version "0.0.32"
