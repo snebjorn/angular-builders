@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@angular-builders/custom-webpack@^8.0.2":
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/@angular-builders/custom-webpack/-/custom-webpack-8.0.2.tgz#0303d87e13f3fe3336098875ed109e093ab0c49b"
-  integrity sha512-ZxR931h0FX/5YZC6RBBczeMkgwOO0eD83EoOtjcshK2mw6jBarONlifhr6Ud0ALyU7fGueOCTgqgGaVwT1QEbw==
+"@angular-builders/custom-webpack@^8.1.0-alpha.0":
+  version "8.1.0-beta.0"
+  resolved "https://registry.yarnpkg.com/@angular-builders/custom-webpack/-/custom-webpack-8.1.0-beta.0.tgz#ee6495421b5afd58a575be43a3efe916bf66efbb"
+  integrity sha512-tSgJvDnIS9yxDflW8Iz49JDDZlAGUS2ufrpuFWogGRVYkYn5DLv98aP5R8DcO2lINdXu8fCXTXA1Qnt8eGxxOA==
   dependencies:
     lodash "^4.17.10"
     webpack-merge "^4.2.1"
@@ -393,10 +393,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.6.tgz#37ec75690830acb0d74ce3c6c43caab787081e85"
   integrity sha512-Xoo/EBzEe8HxTSwaZNLZjaW6M6tA/+GmD3/DZ6uo8qSaolE/9Oarko0oV1fVfrLqOz0tx0nXJB4rdD5c+vixLw==
 
-"@types/node@~11.13.7":
-  version "11.13.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.7.tgz#85dbb71c510442d00c0631f99dae957ce44fd104"
-  integrity sha512-suFHr6hcA9mp8vFrZTgrmqW2ZU3mbWsryQtQlY/QvwTISCw7nw/j+bCQPPohqmskhmqa5wLNuMHTTsc+xf1MQg==
+"@types/node@~12.0.12":
+  version "12.0.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.12.tgz#cc791b402360db1eaf7176479072f91ee6c6c7ca"
+  integrity sha512-Uy0PN4R5vgBUXFoJrKryf5aTk3kJ8Rv3PdlHjl6UaX+Cqp1QE0yPQ68MPXGrZOfG7gZVNDIJZYyot0B9ubXUrQ==
 
 "@types/q@^0.0.32":
   version "0.0.32"
