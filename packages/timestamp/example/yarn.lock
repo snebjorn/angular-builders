@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@angular-builders/timestamp@^8.0.0-RC.1":
-  version "8.0.0-RC.1"
-  resolved "https://registry.yarnpkg.com/@angular-builders/timestamp/-/timestamp-8.0.0-RC.1.tgz#7e2993ad7b9e3195b7a1425618844ab97457751b"
-  integrity sha512-tT4dIkETbxkS4kHLfrQmTMFPSKjQrGWH+xVYtl058tnwMtEHTnkK2VFEJDKahpWHsdbxqRQawBOBUTIWltoJYg==
+"@angular-builders/timestamp@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@angular-builders/timestamp/-/timestamp-8.0.1.tgz#5cfb03fb59c4eaf5400c891b4961feaec9d26313"
+  integrity sha512-6uXbDPiNfq7fgKI1dncYUlL0Xz6Fc2yOHh1IZIhGefqjtFrHv7tg66qcv/etLhwevxRIe/1pHVjM2Pxddj8FVg==
   dependencies:
     dateformat "^3.0.3"
 
@@ -355,10 +355,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.6.tgz#37ec75690830acb0d74ce3c6c43caab787081e85"
   integrity sha512-Xoo/EBzEe8HxTSwaZNLZjaW6M6tA/+GmD3/DZ6uo8qSaolE/9Oarko0oV1fVfrLqOz0tx0nXJB4rdD5c+vixLw==
 
-"@types/node@~12.0.3":
-  version "12.0.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.3.tgz#5d8d24e0033fc6393efadc85cb59c1f638095c9a"
-  integrity sha512-zkOxCS/fA+3SsdA+9Yun0iANxzhQRiNwTvJSr6N95JhuJ/x27z9G2URx1Jpt3zYFfCGUXZGL5UDxt5eyLE7wgw==
+"@types/node@~12.0.11":
+  version "12.0.11"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.11.tgz#3ff9dba8a9dd4c62edd0f67b973e75f5e7417cba"
+  integrity sha512-2AWzR/QLHtsQtARV5vQc+9m4sGtMrVl7t/0/EIoB8LCW5gb+bPgcJB6rySmyNkO/nl4th+OwzLYHlmSGbgXcKw==
 
 "@types/q@^0.0.32":
   version "0.0.32"
